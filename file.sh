@@ -5,9 +5,9 @@ case $luck in
    0)
 	echo "    ___"
 	echo "   //  \"
-	echo "  || ⊏⊐ | "
-	echo " /||  > |\"
-	echo "‾ ||    | ‾"
+	echo "  |\| ⊏⊐ | "
+	echo " /|\|  > |\\"
+	echo "‾ |\|    | ‾"
 	echo "   ︵  ︵"
 	echo "pingus"
     1)
