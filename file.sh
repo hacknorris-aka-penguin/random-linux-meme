@@ -2,7 +2,7 @@
 
 luck=$(($RANDOM %5))
 case $luck in
-	0)
+   0)
 	echo "    ___"
 	echo "   //  \"
 	echo "  || ⊏⊐ | "
