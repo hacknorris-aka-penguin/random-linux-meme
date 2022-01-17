@@ -2,6 +2,14 @@
 
 luck=$(($RANDOM %5))
 case $luck in
+	0)
+		echo "    ___"
+		echo "   //  \"
+		echo "  || ⊏⊐ | "
+		echo " /||  > |\"
+		echo "‾ ||    | ‾"
+		echo "   ︵  ︵"
+		echo "pingus"
     1)
         echo "----------------|"
         echo " 69             |"
